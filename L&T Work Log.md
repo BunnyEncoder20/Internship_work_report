@@ -61,4 +61,5 @@
 - Started work on automating Permission giving in PLM (project permissions) in Python Playwright.
 
 ### Week 13 (19 Aug - 23 Aug)
-- Compted Project Permission automation (version 1). 
+- Completed Project Permission automation (version 1). 
+- Completed Project Permission automation (verison 2 - updates sharepoint data table also)
